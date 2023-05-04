@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aditya Swaroop</h1>
-<h3 align="center">I am a highly skilled <i><b> Web Developer</b></i> with 1yrs+ of experience in HTML, CSS, JavaScript and React.js. Recently I have started Backend Development using Node.js have knowledge of popular frameworks such as React.js,Next.js and Vue.js and experience with REST APIs and MVC frameworks.</h3>
+<h1 >Hi 👋, I'm Aditya Swaroop</h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaswaroop823&label=Profile%20views&color=0e75b6&style=flat" alt="adityaswaroop823" /> </p>
 
