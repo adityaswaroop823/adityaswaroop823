@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaswaroop823&label=Profile%20views&color=0e75b6&style=flat" alt="adityaswaroop823" /> </p>
 
-- 🔭 I’m currently working as a Frontend Developer **At Krishify**
+- 🔭 I’m currently working as a Frontend Developer **At Liberin Technologies**
 
 - 🌱 I’m currently learning **Node.js,MongoDb**
 
-- 👯 I have Contributed in **HactoberFest21&22**
+- 👯 I have Contributed in **HactoberFest21,22&23**
 
 - 👨‍💻 All of my projects are available at [https://adityaswaroop823.github.io/portfolio/](https://adityaswaroop823.github.io/portfolio/)
 
